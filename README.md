@@ -1,2 +1,2 @@
 # pweb_projetomvc
-Projeto de exercício da arquitetura MVC
+Projeto para exercício da arquitetura MVC na a disciplina de Programação Web I
